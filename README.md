@@ -5,8 +5,8 @@ Analysis for the data on condition of roads collected with the use of Raspberry 
 Have a look at the *[Road Condition Analysis.ipynb](https://github.com/Dheeraj1998/Road-Condition-Analysis/blob/master/Road%20Condition%20Analysis.ipynb)* file for diving into the analysis part of the data acquired from the sensors. The data has also been visualised on a map in the *[road_analysis.html](https://github.com/Dheeraj1998/Road-Condition-Analysis/blob/master/road_analysis.html)* file.
 
 # Screenshots
-The analysis of the roads from the hardware is visualised as follows in the web-page. The different sizes of the transparent circles indicate the condition of the roads at the particular points. The level of severity from highest to lowest is as follows: ***red** (largest circle)* -> ***blue** (medium circle)* -> ***green** (small circle)*.
+The analysis of the roads from the hardware can be visualised on a webpage (using Google Maps) or on the Jupyter Notebook itself with the help of Folium. The different sizes of the transparent circles indicate the condition of the roads at the particular points. The level of severity from highest to lowest is as follows: ***red** (largest circle)* -> ***blue** (medium circle)* -> ***green** (small circle)*.
 
 <p align = "center">
-  <img src="screenshots/shot_2.png" width="100%"></img>
+  <img src="screenshots/screenshot_1.png" width="100%"></img>
 </p>
