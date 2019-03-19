@@ -8,5 +8,16 @@ Have a look at the *[Road Condition Analysis.ipynb](https://github.com/Dheeraj19
 The analysis of the roads from the hardware can be visualised on a webpage (using Google Maps) or on the Jupyter Notebook itself with the help of Folium. The different sizes of the transparent circles indicate the condition of the roads at the particular points. The level of severity from highest to lowest is as follows: ***red** (largest circle)* -> ***blue** (medium circle)* -> ***green** (small circle)*.
 
 <p align = "center">
-  <img src="screenshots/screenshot_1.png" width="100%"></img>
+  <img src="pictures/picture_1.png" width="50%"></img>
+  <img src="pictures/screenshot_1.png" width="50%"></img>
+</p>
+
+<p align = "center">
+  <img src="pictures/picture_2.png" width="50%"></img>
+  <img src="pictures/screenshot_2.png" width="50%"></img>
+</p>
+
+<p align = "center">
+  <img src="pictures/picture_3.png" width="50%"></img>
+  <img src="pictures/screenshot_4.png" width="50%"></img>
 </p>
